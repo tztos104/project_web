@@ -35,6 +35,12 @@ margin
 </colgroup>
 
 도스 명령어
-cd
-cd..
+cd c:/  c드라이브로 이동
+cd..    상위폴더로 이동
 dir
+
+배치(display-일괄적)
+display: block 수직-기본
+display: none 수직
+display: inline 수평
+display: inline-block 수직
