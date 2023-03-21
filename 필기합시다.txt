@@ -1,0 +1,40 @@
+페이지 연결 하이퍼링크 hyper reference
+ <a href="주소">
+
+ 사진
+ <img src="이미지 위치">
+
+ 환경변수path
+
+
+background-color:  배경색 바꾸기
+프로젝트 폴더 : product
+index.html
+
+메뉴를 만들어주는 태그
+<nav>
+
+css 스타일
+-외부 스타일 : css 파일로 작성 가능(파일포함)
+-내부 스타일 : <style> 태그 이용
+-인라인 스타일: style 속성을 사용 
+
+
+html5 -시멘틱(semantic) : 의미
+<!doctype html>
+
+<thead></thead>
+<tbody></tbody>
+
+margin 
+
+스타일 우선 수위
+
+<colgroup>
+<col></col>
+</colgroup>
+
+도스 명령어
+cd
+cd..
+dir
