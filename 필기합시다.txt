@@ -58,3 +58,17 @@ fieldset
 
 <textarea rows=3 cols=60><texrarea>
 
+배치속성
+display 일괄 수직, 수평
+float(일괄 수직(개별))
+position(독립, 개별)
+
+<form action="join.jsp">
+<input type="text",id,name
+placeholder>한줄
+<input type="submit">전송
+<textarea> 여러줄 입력
+<select id, name, value> ~<option>
+</form>
+속성
+type, placeholder(힌트)
